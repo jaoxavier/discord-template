@@ -1,0 +1,22 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaoxavier/bot-discord.git"
+  },
+  "author": "joaoXavier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaoxavier/bot-discord/issues"
+  },
+  "homepage": "https://github.com/jaoxavier/bot-discord#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
